@@ -17,7 +17,7 @@ It allows users to browse products and perform login/registration.
 1. Make sure [Flutter](https://flutter.dev/docs/get-started/install) is installed on your machine.  
 2. Clone the project from GitHub:  
    ```bash
-   git clone https://github.com/RahmaElhagary/shoppingApp.git
+   https://github.com/RahmaElhagary/shoppingApp.git
 
    ```
 
